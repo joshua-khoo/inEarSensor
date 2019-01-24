@@ -1,7 +1,7 @@
 # inEarSensor
 
-Joshua Khoo\n
-MNS Lab\n
+Joshua Khoo__
+MNS Lab__
 University of Colorado, Boulder
 
 Android app to process EEG signals
